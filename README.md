@@ -1,2 +1,2 @@
 # Non-BinaryCoders
- Our Solution to
+ Our Solution for Generative AI Problem Set in Taqneeq
